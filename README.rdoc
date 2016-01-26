@@ -1,0 +1,5 @@
+== todolists
+
+Created for the course {Rails with Active Record and Action Pack}[https://www.coursera.org/learn/rails-with-active-record/].
+
+Assignment for Module #2: Active Record Relationships
